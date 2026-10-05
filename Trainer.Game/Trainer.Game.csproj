@@ -1,0 +1,20 @@
+<Project Sdk="Godot.NET.Sdk/4.3.0">
+
+  <!--
+    Presentation + input layer. References the Sim for rules/math only;
+    never the other way around.
+  -->
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <LangVersion>12</LangVersion>
+    <Nullable>disable</Nullable>
+    <EnableDynamicLoading>true</EnableDynamicLoading>
+    <RootNamespace>Trainer.Game</RootNamespace>
+    <AssemblyName>Trainer.Game</AssemblyName>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Trainer.Sim\Trainer.Sim.csproj" />
+  </ItemGroup>
+
+</Project>
