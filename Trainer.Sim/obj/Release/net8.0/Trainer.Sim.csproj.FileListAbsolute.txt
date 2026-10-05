@@ -1,0 +1,11 @@
+/workspace/Trainer.Sim/bin/Release/net8.0/Trainer.Sim.deps.json
+/workspace/Trainer.Sim/bin/Release/net8.0/Trainer.Sim.dll
+/workspace/Trainer.Sim/bin/Release/net8.0/Trainer.Sim.pdb
+/workspace/Trainer.Sim/obj/Release/net8.0/Trainer.Sim.GeneratedMSBuildEditorConfig.editorconfig
+/workspace/Trainer.Sim/obj/Release/net8.0/Trainer.Sim.AssemblyInfoInputs.cache
+/workspace/Trainer.Sim/obj/Release/net8.0/Trainer.Sim.AssemblyInfo.cs
+/workspace/Trainer.Sim/obj/Release/net8.0/Trainer.Sim.csproj.CoreCompileInputs.cache
+/workspace/Trainer.Sim/obj/Release/net8.0/Trainer.Sim.dll
+/workspace/Trainer.Sim/obj/Release/net8.0/refint/Trainer.Sim.dll
+/workspace/Trainer.Sim/obj/Release/net8.0/Trainer.Sim.pdb
+/workspace/Trainer.Sim/obj/Release/net8.0/ref/Trainer.Sim.dll
